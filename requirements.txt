@@ -1,0 +1,5 @@
+﻿moviepy==1.0.3
+numpy==1.26.1
+opencv-python==4.8.1.78
+srt==3.5.3
+whisper-timestamped==1.13.3
